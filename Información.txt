@@ -2,7 +2,7 @@ Buen día David, espero se encuentre bien,
 
 Le informo que el usuario de ingreso es: epazosqa@gmail.com y la contraseña es 123 en caso de que se requiera.
 
-Por otro lado comentarle que el tema de CSS se me ha dificultado un poco, por lo cual sigo validando que pasa con el padding y el border de la tabla para estudiantes.
+Por otro lado comentarle que el tema de CSS se me ha dificultado un poco, por lo cual sigo validando que pasa con el padding y el border de la tabla para estudiantes y con pantalla de inicio y demás.
 Con respecto al funcionamiento, resulta que no encuentro aún el error que se presenta para el número de teléfono, dado que no se logra modificar y al ingresar un nuevo se repite, seguiré validando.
 
 Agradezco el tiempo, quedo atenta a sus comentarios.
